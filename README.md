@@ -10,6 +10,7 @@
   <img align="left" alt="Harshet's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
+<br />
 
 Hi, I am a young IT Enthusiast. Right now, I am in my 2nd year of Engineering. I have practical knowledge of DevOps, Cloud Computing, Machine learning, Docker, Jenkins, Kubernetes, AWS, GCP, Big data, Hadoop. I am always passionate to learn about new technologies
 
@@ -17,7 +18,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
   <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
 
-
+<br />
 
 **Talking about Personal Stuffs/Achievements:**
 
