@@ -30,6 +30,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
 ![Harshet's github stats](https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="HarshetJain" /></p>
+![Visitor Count](https://profile-counter.glitch.me/{Harshetjain666}/count.svg)
 
 <!--
 **Languages and Tools:**
@@ -45,7 +46,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-⭐️ You can find more about me in my portfolio website here: [Chirag Samal](http://chiragsamal.github.io/)
+⭐️ You can find more about me in my portfolio website here: [Harshetjain666](http://Harshetjain.github.io/)
 
 
 **Harshetjain666/Harshetjain666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
