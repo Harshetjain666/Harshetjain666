@@ -27,9 +27,16 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: hjain8620.hj@gmail.com
 
+<details>
+<summary>📊 Github Stats</summary>
 
-![Harshet's github stats](https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="HarshetJain" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&theme=gotham" alt="Harshet Jain | Stats" />   
+  
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshetjain666&" alt="HarshetJain" /></p>
+
+
+</details>
+
 ![Visitor Count](https://profile-counter.glitch.me/{Harshetjain666}/count.svg)
 
 <!--
