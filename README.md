@@ -1,13 +1,13 @@
 ### Hey 👋, I'm [Harshet Jain!](https://www.linkedin.com/in/harshet-jain/)
 
 <a href="https://twitter.com/JainHarshet">
-  <img align="left" alt="Harshet's Twitter | Twitter" width="22px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
+  <img align="left" alt="Harshet's Twitter | Twitter" width="24px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
 </a>
 <a href="https://www.linkedin.com/in/harshet-jain/">
-  <img align="left" alt="Harshet's LinkedIN" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+  <img align="left" alt="Harshet's LinkedIN" width="24px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 <a href="https://medium.com/@harshetjain">
-  <img align="left" alt="Harshet's Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" />
+  <img align="left" alt="Harshet's Medium" width="24px" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram--v1.png" />
 </a>
 <br />
 <br />
