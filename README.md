@@ -1,7 +1,7 @@
 ### Hey 👋, I'm [Harshet Jain!](https://www.linkedin.com/in/harshet-jain/)
 
 <a href="https://twitter.com/JainHarshet">
-  <img align="left" alt="Harshet's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Harshet's Twitter | Twitter" width="22px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
 </a>
 <a href="https://www.linkedin.com/in/harshet-jain/">
   <img align="left" alt="Harshet's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
