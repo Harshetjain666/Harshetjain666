@@ -23,7 +23,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
 - 👨‍💻 Technical Volunteer @ [Arth - The School of Technologies](https://rightarth.com/)
 - 🌱 Experience with DevOps tools: Docker, Kubernetes, Ansible etc
-- 🏅 Content Creater on [Medium](https://medium.com/@harshetjain) with more than 50 followers
+- 🏅 Content Creater on [Medium](https://medium.com/@harshetjain)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: hjain8620.hj@gmail.com
 
