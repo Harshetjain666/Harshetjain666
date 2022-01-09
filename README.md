@@ -12,8 +12,6 @@
 <br />
 <br />
 
-Hi 
-
 I am a young IT Enthusiast. Right now, I am in my 3rd year of Engineering. I have practical knowledge of DevOps, Cloud Computing, Machine learning, Docker, Jenkins, Kubernetes, AWS, GCP, Big data, Hadoop. I am always passionate to learn about new technologies
 
 Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 and Football ⚽.
