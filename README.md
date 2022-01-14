@@ -25,7 +25,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 - 🌱 Experience with DevOps tools: Docker, Kubernetes, Ansible etc
 - 🏅 Content Creater on [Medium](https://medium.com/@harshetjain)
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: hjain8620.hj@gmail.com
+- 📫 How to reach me: harshetjain@yahoo.com
 
 <details>
 <summary>📊 Github Stats</summary>
