@@ -21,7 +21,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 👨‍💻 DevOps Engineer at galt consulting
+- 👨‍💻 DevOps Engineer at Galt Consulting
 - 🌱 Experience with DevOps tools: Terraform, Kubernetes, Ansible etc
 - 🏅 Content Creater on [Medium](https://medium.com/@harshetjain)
 - 💬 Ask me about anything, I am happy to help
