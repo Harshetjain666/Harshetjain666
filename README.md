@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I am a young IT Enthusiast. I have hands-on experience on DevOps, Cloud Computing, Docker, Jenkins, Kubernetes, AWS, Terraform, Ansible, GCP, Big data, Hadoop. I am always passionate to learn about new technologies
+I am an IT Enthusiast. I have hands-on experience on DevOps, Cloud Computing, Docker, Jenkins, Kubernetes, AWS, Terraform, Ansible, GCP, Big data, Hadoop. I am always passionate to learn about new technologies
 
 Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 and Football ⚽.
   <img align="right" alt="GIF" width="360" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -21,7 +21,7 @@ Beside's developing stuff, I enjoy listening music 🎧, traveling 🏝️🗻 a
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 👨‍💻 Technical Volunteer @ [Arth - The School of Technologies](https://rightarth.com/)
+- 👨‍💻 DevOps Enginner at galt consulting
 - 🌱 Experience with DevOps tools: Terraform, Kubernetes, Ansible etc
 - 🏅 Content Creater on [Medium](https://medium.com/@harshetjain)
 - 💬 Ask me about anything, I am happy to help
