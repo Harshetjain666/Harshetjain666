@@ -1,12 +1,12 @@
 <!-- ॐ -->
 
-<img align="right" width="420" src="banner.svg" alt=""/>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
-<div>
+## Harshet Jain.
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=58&duration=0&pause=0&color=1C1917&center=false&vCenter=true&repeat=false&width=500&height=80&lines=Harshet+Jain." alt="Harshet Jain"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3500&pause=1200&color=C4873A&center=false&vCenter=true&width=500&height=30&lines=Senior+SRE+%C2%B7+Platform+Engineer+%C2%B7+AWS+Community+Builder;Keeping+multi-cloud+Kubernetes+alive+under+enterprise+SLAs;EKS+on+AWS+%C2%B7+GKE+on+GCP+%C2%B7+New+Delhi%2C+India;Open+to+async-first+remote+roles+worldwide" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3500&pause=1200&color=C4873A&center=false&vCenter=true&width=420&height=28&lines=Senior+SRE+%C2%B7+Platform+Engineer+%C2%B7+AWS+Community+Builder;4+yrs+keeping+multi-cloud+Kubernetes+alive;EKS+on+AWS+%C2%B7+GKE+on+GCP+%C2%B7+New+Delhi%2C+India;Open+to+async-first+remote+roles+worldwide" alt="tagline"/>
 
 <br/>
 
@@ -15,9 +15,14 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1C1917?style=flat&logo=x&logoColor=C4873A)](https://twitter.com/JainHarshet)&nbsp;
 [![Email](https://img.shields.io/badge/Email-1C1917?style=flat&logo=gmail&logoColor=C4873A)](mailto:harshetjain666@gmail.com)
 
-</div>
+</td>
+<td width="45%" valign="top" align="right">
 
-<br clear="right"/>
+<img src="banner.svg" width="400" alt=""/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,15 +97,15 @@ Production-ready Terraform module for EKS with Fargate — VPC, node groups, IRS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&bg_color=F7F3EE&title_color=1C1917&text_color=57534E&icon_color=C4873A&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e&icon_color=C4873A&count_private=true" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshetjain666&layout=compact&hide_border=true&bg_color=F7F3EE&title_color=1C1917&text_color=57534E&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshetjain666&layout=compact&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e&langs_count=6" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harshetjain666&hide_border=true&background=F7F3EE&ring=C4873A&fire=C4873A&currStreakLabel=1C1917&sideLabels=57534E&dates=A8A29E&stroke=E8E0D5" height="140"/>
+<img src="https://streak-stats.demolab.com?user=Harshetjain666&hide_border=true&background=0d1117&ring=C4873A&fire=C4873A&currStreakLabel=C4873A&sideLabels=8b949e&dates=8b949e&stroke=21262d" height="140"/>
 
 </div>
 
