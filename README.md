@@ -1,12 +1,15 @@
 <!-- ॐ -->
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="20" cellspacing="0" style="border:none">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle" style="border:none">
 
-## Harshet Jain.
+# Harshet Jain.
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3500&pause=1200&color=C4873A&center=false&vCenter=true&width=420&height=28&lines=Senior+SRE+%C2%B7+Platform+Engineer+%C2%B7+AWS+Community+Builder;4+yrs+keeping+multi-cloud+Kubernetes+alive;EKS+on+AWS+%C2%B7+GKE+on+GCP+%C2%B7+New+Delhi%2C+India;Open+to+async-first+remote+roles+worldwide" alt="tagline"/>
+**Senior SRE · Platform Engineer · AWS Community Builder**
+
+4 yrs keeping multi-cloud Kubernetes alive under enterprise SLAs —
+EKS on AWS · GKE on GCP · New Delhi, India
 
 <br/>
 
@@ -16,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Email-1C1917?style=flat&logo=gmail&logoColor=C4873A)](mailto:harshetjain666@gmail.com)
 
 </td>
-<td width="45%" valign="top" align="right">
+<td width="45%" valign="middle" style="border:none">
 
 <img src="banner.svg" width="400" alt=""/>
 
@@ -97,15 +100,15 @@ Production-ready Terraform module for EKS with Fargate — VPC, node groups, IRS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e&icon_color=C4873A&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshetjain666&layout=compact&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e&icon_color=C4873A&count_private=true&include_all_commits=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshetjain666&layout=compact&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harshetjain666&hide_border=true&background=0d1117&ring=C4873A&fire=C4873A&currStreakLabel=C4873A&sideLabels=8b949e&dates=8b949e&stroke=21262d" height="140"/>
+<img src="https://streak-stats.demolab.com?user=Harshetjain666&hide_border=true&background=0d1117&ring=C4873A&fire=C4873A&currStreakLabel=C4873A&sideLabels=8b949e&dates=8b949e&stroke=21262d" height="150"/>
 
 </div>
 
