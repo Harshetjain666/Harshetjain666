@@ -106,16 +106,6 @@ Production-ready Terraform module for EKS with Fargate — VPC, node groups, IRS
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshetjain666&bg_color=0d1117&color=C4873A&line=C4873A&point=ffffff&area=true&hide_border=true)](https://github.com/Harshetjain666)
-
-</div>
-
----
-
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate · 2021
