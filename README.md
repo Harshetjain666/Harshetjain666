@@ -96,19 +96,11 @@ Production-ready Terraform module for EKS with Fargate — VPC, node groups, IRS
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshetjain666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e&icon_color=C4873A&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshetjain666&layout=compact&hide_border=true&bg_color=0d1117&title_color=C4873A&text_color=8b949e" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Harshetjain666&hide_border=true&background=0d1117&ring=C4873A&fire=C4873A&currStreakLabel=C4873A&sideLabels=8b949e&dates=8b949e&stroke=21262d" height="150"/>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshetjain666&bg_color=0d1117&color=C4873A&line=C4873A&point=ffffff&area=true&hide_border=true)](https://github.com/Harshetjain666)
 
 </div>
 
