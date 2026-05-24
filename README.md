@@ -39,13 +39,13 @@ EKS on AWS · GKE on GCP · New Delhi, India
 
 | | |
 |:---|:---|
-| **i** · 30% cloud cost reduction | ~$60K/year across AWS + GCP — per-service dashboards, reserved capacity, spot for batch, lifecycle rules on object storage |
-| **ii** · MTTR 60 min → under 20 | Wired 15+ runbooks to PagerDuty alerts. Traced a live regression through Grafana, coordinated rollback in 18 minutes |
-| **iii** · SOC2 Type II in 6 months | Audit logging, namespace RBAC, Trivy + Snyk in CI, IRSA + Workload Identity. Zero long-lived credentials. Zero audit findings |
-| **iv** · Zero-downtime MySQL 5.7 → 8.0 | Blue-green deploys, DMS lag monitoring, two weeks of parallel query validation. No data loss, no downtime |
-| **v** · P0 EKS node failure recovered in <30 min | Drained nodes, shifted ALB weights mid-enterprise-traffic. Post-mortem runbook prevented two recurrences |
-| **vi** · Argo Rollouts canary with Prometheus gates | Bad deploys caught at 5% traffic, auto-rolled back. Deploys went from weekly batches to multiple daily releases |
-| **vii** · <2 min RTO on AZ failure | Quarterly DR drills via AWS FIS. Chaos experiments surfaced 4 failure modes before production did |
+| 30% cloud cost reduction | ~$60K/year across AWS + GCP — per-service dashboards, reserved capacity, spot for batch, lifecycle rules on object storage |
+| MTTR 60 min → under 20 | Wired 15+ runbooks to PagerDuty alerts. Traced a live regression through Grafana, coordinated rollback in 18 minutes |
+| SOC2 Type II in 6 months | Audit logging, namespace RBAC, Trivy + Snyk in CI, IRSA + Workload Identity. Zero long-lived credentials. Zero audit findings |
+| Zero-downtime MySQL 5.7 → 8.0 | Blue-green deploys, DMS lag monitoring, two weeks of parallel query validation. No data loss, no downtime |
+| P0 EKS node failure recovered in <30 min | Drained nodes, shifted ALB weights mid-enterprise-traffic. Post-mortem runbook prevented two recurrences |
+| Argo Rollouts canary with Prometheus gates | Bad deploys caught at 5% traffic, auto-rolled back. Deploys went from weekly batches to multiple daily releases |
+| <2 min RTO on AZ failure | Quarterly DR drills via AWS FIS. Chaos experiments surfaced 4 failure modes before production did |
 
 ---
 
