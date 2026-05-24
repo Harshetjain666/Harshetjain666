@@ -1,15 +1,15 @@
 <!-- ॐ -->
 
-<table border="0" cellpadding="20" cellspacing="0" style="border:none">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="middle" style="border:none">
+<td width="62%" valign="middle" style="border:none; padding: 0 34px 0 0">
 
 # Harshet Jain.
 
 **Senior SRE · Platform Engineer · AWS Community Builder**
 
-4 yrs keeping multi-cloud Kubernetes alive under enterprise SLAs —
-EKS on AWS · GKE on GCP · New Delhi, India
+4 years keeping multi-cloud Kubernetes alive under enterprise SLAs —
+EKS on AWS · GKE on GCP · 100+ Terraform resources · New Delhi, India
 
 <br/>
 
@@ -19,9 +19,9 @@ EKS on AWS · GKE on GCP · New Delhi, India
 [![Email](https://img.shields.io/badge/Email-1C1917?style=flat&logo=gmail&logoColor=C4873A)](mailto:harshetjain666@gmail.com)
 
 </td>
-<td width="45%" valign="middle" style="border:none">
+<td width="38%" valign="middle" style="border:none">
 
-<img src="banner.svg" width="400" alt=""/>
+<img src="banner.svg" width="380" alt=""/>
 
 </td>
 </tr>
@@ -39,13 +39,13 @@ EKS on AWS · GKE on GCP · New Delhi, India
 
 | | |
 |:---|:---|
-| 30% cloud cost reduction | ~$60K/year across AWS + GCP — per-service dashboards, reserved capacity, spot for batch, lifecycle rules on object storage |
-| MTTR 60 min → under 20 | Wired 15+ runbooks to PagerDuty alerts. Traced a live regression through Grafana, coordinated rollback in 18 minutes |
-| SOC2 Type II in 6 months | Audit logging, namespace RBAC, Trivy + Snyk in CI, IRSA + Workload Identity. Zero long-lived credentials. Zero audit findings |
-| Zero-downtime MySQL 5.7 → 8.0 | Blue-green deploys, DMS lag monitoring, two weeks of parallel query validation. No data loss, no downtime |
-| P0 EKS node failure recovered in <30 min | Drained nodes, shifted ALB weights mid-enterprise-traffic. Post-mortem runbook prevented two recurrences |
-| Argo Rollouts canary with Prometheus gates | Bad deploys caught at 5% traffic, auto-rolled back. Deploys went from weekly batches to multiple daily releases |
-| <2 min RTO on AZ failure | Quarterly DR drills via AWS FIS. Chaos experiments surfaced 4 failure modes before production did |
+| **i** · 30% cloud cost reduction | ~$60K/year across AWS + GCP — per-service dashboards, reserved capacity, spot for batch, lifecycle rules on object storage |
+| **ii** · MTTR 60 min → under 20 | Wired 15+ runbooks to PagerDuty alerts. Traced a live regression through Grafana, coordinated rollback in 18 minutes |
+| **iii** · SOC2 Type II in 6 months | Audit logging, namespace RBAC, Trivy + Snyk in CI, IRSA + Workload Identity. Zero long-lived credentials. Zero audit findings |
+| **iv** · Zero-downtime MySQL 5.7 → 8.0 | Blue-green deploys, DMS lag monitoring, two weeks of parallel query validation. No data loss, no downtime |
+| **v** · P0 EKS node failure recovered in <30 min | Drained nodes, shifted ALB weights mid-enterprise-traffic. Post-mortem runbook prevented two recurrences |
+| **vi** · Argo Rollouts canary with Prometheus gates | Bad deploys caught at 5% traffic, auto-rolled back. Deploys went from weekly batches to multiple daily releases |
+| **vii** · <2 min RTO on AZ failure | Quarterly DR drills via AWS FIS. Chaos experiments surfaced 4 failure modes before production did |
 
 ---
 
@@ -69,13 +69,23 @@ EKS on AWS · GKE on GCP · New Delhi, India
 ![GCP](https://img.shields.io/badge/GCP_GKE-C4873A?style=flat&logoColor=fff&logo=googlecloud)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1C1917?style=flat&logoColor=C4873A&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-1C1917?style=flat&logoColor=C4873A&logo=terraform)
+![OpenStack](https://img.shields.io/badge/OpenStack-1C1917?style=flat&logoColor=C4873A&logo=openstack)
 
 **Observability & Delivery**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-1C1917?style=flat&logoColor=C4873A&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-1C1917?style=flat&logoColor=C4873A&logo=grafana)
+![Loki](https://img.shields.io/badge/Loki-1C1917?style=flat&logoColor=C4873A&logo=grafana)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1C1917?style=flat&logoColor=C4873A&logo=argo)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C1917?style=flat&logoColor=C4873A&logo=githubactions)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-1C1917?style=flat&logoColor=C4873A&logo=pagerduty)
+
+**Security & IaC**
+
+![Ansible](https://img.shields.io/badge/Ansible-1C1917?style=flat&logoColor=C4873A&logo=ansible)
+![Trivy](https://img.shields.io/badge/Trivy-1C1917?style=flat&logoColor=C4873A&logo=aquasecurity)
+![Snyk](https://img.shields.io/badge/Snyk-1C1917?style=flat&logoColor=C4873A&logo=snyk)
+![Vault](https://img.shields.io/badge/Vault-1C1917?style=flat&logoColor=C4873A&logo=vault)
 
 **Languages**
 
@@ -96,6 +106,16 @@ Production-ready Terraform module for EKS with Fargate — VPC, node groups, IRS
 
 ---
 
+## GitHub activity
+
+<div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshetjain666&bg_color=0d1117&color=C4873A&line=C4873A&point=ffffff&area=true&hide_border=true)](https://github.com/Harshetjain666)
+
+</div>
+
+---
+
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate · 2021
@@ -112,6 +132,13 @@ DevOps, SRE war stories, cloud cost engineering, and infrastructure deep-dives o
 
 ---
 
+<!-- Prithvi — earth — south-west — foundation — the heaviest, most permanent element -->
 <div align="center">
-<sub>thinks differently about infrastructure</sub>
+<br/>
+
+**Senior SRE @ Qubole &nbsp;·&nbsp; AWS Community Builder &nbsp;·&nbsp; 4 years in production &nbsp;·&nbsp; SOC2 Type II &nbsp;·&nbsp; $60K cloud saved**
+
+*Open to async-first remote roles worldwide*
+
+<br/>
 </div>
